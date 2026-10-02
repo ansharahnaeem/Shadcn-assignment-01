@@ -1,0 +1,14 @@
+import { Button } from "@/components/ui/button"
+import AttendenceTracker from "./components/QualityTracker"
+import QualityTracker from "./components/QualityTracker"
+
+export function App() {
+  return (
+   <main className="flex justify-center items-center min-h-screen bg-slate-500">
+    <QualityTracker/>
+   </main>
+  )
+}
+
+export default App
+
