@@ -40,11 +40,13 @@ function QualityTracker(){
                         Customer  Name
                     </p> 
                     <br />
+                   
                     <Input ref={inputRef} placeholder="Enter your name"></Input>
                 </div>
 
                 <br />
                 <div className="mb-6 text-center">
+                     <p className="text-center text-purple-500 mb-5 text-bold">Wireless Headphone</p>
                     <p className=" text-sm text-slate-500 ">
                         $25 each
                     </p>
