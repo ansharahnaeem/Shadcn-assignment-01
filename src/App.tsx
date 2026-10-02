@@ -1,5 +1,4 @@
-import { Button } from "@/components/ui/button"
-import AttendenceTracker from "./components/QualityTracker"
+ 
 import QualityTracker from "./components/QualityTracker"
 
 export function App() {
